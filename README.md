@@ -1,6 +1,6 @@
 ## AI_testing 
 What is it?
-Default machine learning testing with completed dataset
+Default example of machine learning studying with completed dataset of flowers.
 
 ● 
 
